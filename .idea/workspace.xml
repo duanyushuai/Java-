@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7cd61c6d-9af2-46a0-9f0d-69dc49ff6033" name="Default Changelist" comment="" />
+    <list default="true" id="7cd61c6d-9af2-46a0-9f0d-69dc49ff6033" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/eleventofifteen/practice3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/eleventofifteen/practice3.java" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -42,8 +45,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/eleventofifteen/practice3.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-94">
-              <caret line="113" column="42" selection-start-line="113" selection-start-column="42" selection-end-line="113" selection-end-column="42" />
+            <state relative-caret-position="635">
+              <caret line="140" column="5" selection-start-line="140" selection-start-column="5" selection-end-line="140" selection-end-column="5" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -94,8 +97,8 @@
         <option value="$PROJECT_DIR$/src/main/java/onetofive/practice1.java" />
         <option value="$PROJECT_DIR$/src/main/java/sixtoten/practice2.java" />
         <option value="$PROJECT_DIR$/src/main/java/eleventofifteen/StringPrint.java" />
-        <option value="$PROJECT_DIR$/src/main/java/eleventofifteen/practice3.java" />
         <option value="$PROJECT_DIR$/src/main/java/p.java" />
+        <option value="$PROJECT_DIR$/src/main/java/eleventofifteen/practice3.java" />
       </list>
     </option>
   </component>
@@ -106,7 +109,14 @@
       </MavenImportingSettings>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectConfigurationFiles">
+    <option name="files">
+      <list>
+        <option value="$PROJECT_DIR$/.idea/vcs.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="194" />
     <option name="y" value="273" />
     <option name="width" value="1101" />
@@ -260,17 +270,26 @@
       <updated>1570846690051</updated>
       <workItem from="1570846693929" duration="7567000" />
       <workItem from="1570870616892" duration="4113000" />
-      <workItem from="1571022464950" duration="1397000" />
+      <workItem from="1571022464950" duration="2853000" />
     </task>
+    <task id="LOCAL-00001" summary="javaSE练习题">
+      <created>1571036334003</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1571036334003</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="13077000" />
+    <option name="totallyTimeSpent" value="14533000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="194" y="273" width="1101" height="977" extended-state="0" />
+    <frame x="-9" y="-9" width="1938" height="1050" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25511196" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.14055794" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -303,6 +322,10 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="javaSE练习题" />
+    <option name="LAST_COMMIT_MESSAGE" value="javaSE练习题" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/main/java/onetofive.java" />
@@ -388,8 +411,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/eleventofifteen/practice3.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-94">
-          <caret line="113" column="42" selection-start-line="113" selection-start-column="42" selection-end-line="113" selection-end-column="42" />
+        <state relative-caret-position="635">
+          <caret line="140" column="5" selection-start-line="140" selection-start-column="5" selection-end-line="140" selection-end-column="5" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
